@@ -15,3 +15,9 @@ Package: com.irondaydreamworks.sunderstar. This prototype has automated checks b
 [SUNDERSTAR v0.1.1 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.1-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.1-android.apk)
 
 Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
+
+## Phone download
+
+[Download and install on Android](https://chivasa81.github.io/sunderstar-downloads/)
+
+This GitHub Pages page avoids opening the APK in GitHub's code viewer. It provides a ZIP containing the unchanged signed APK, plus a direct APK download. Extract the ZIP in My Files, then open the APK to install.
