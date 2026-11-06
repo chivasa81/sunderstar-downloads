@@ -9,3 +9,9 @@ Android 8.0+ with a current system WebView. Offline landscape play, multi-touch 
 Download the APK from Releases, open it on your Android phone, and install. If prompted, allow that browser or file manager to install this app.
 
 Package: com.irondaydreamworks.sunderstar. This prototype has automated checks but has not been physically phone-tested.
+
+## Direct repository download
+
+[SUNDERSTAR v0.1.1 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.1-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.1-android.apk)
+
+Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
