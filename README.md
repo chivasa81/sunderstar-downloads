@@ -1,7 +1,9 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.1.7.** [Phone download page](https://chivasa81.github.io/sunderstar-downloads/)
+**Latest: SUNDERSTAR v0.1.8.**
 
-This update adds textured planetary machinery, stronger ground effects and sound, and a paused tactical map with pan, pinch/zoom and objective status.
+[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.8-android/SUNDERSTAR-v0.1.8-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.8-android/SUNDERSTAR-v0.1.8-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.1.8-android)
+
+Refined Voltalon wings, cockpit, armor, engine lighting and phone framing, plus the first original Gemini music drafts. Extract the ZIP in My Files if your browser stalls on the APK.
 <!-- latest-build:end -->
 
 # SUNDERSTAR for Android
@@ -61,5 +63,11 @@ Open the download link in your Android browser. This is the same verified signed
 ## Direct repository download
 
 [SUNDERSTAR v0.1.7 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.7-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.7-android.apk)
+
+Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
+
+## Direct repository download
+
+[SUNDERSTAR v0.1.8 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.8-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.8-android.apk)
 
 Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
