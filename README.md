@@ -1,7 +1,9 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.1.2.** [Phone download page](https://chivasa81.github.io/sunderstar-downloads/)
+**Latest: SUNDERSTAR v0.1.3.**
 
-This update adds detailed armored Rook artwork, industrial scenery, somersault firing, a floating thumbstick, separate sound levels, and upgraded orbital battles.
+[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.3-android/SUNDERSTAR-v0.1.3-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.3-android/SUNDERSTAR-v0.1.3-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.1.3-android)
+
+New character combat poses, matching aliens, detailed planetary scenery, and richer space battles. Extract the ZIP in My Files if your browser stalls on the APK.
 <!-- latest-build:end -->
 
 # SUNDERSTAR for Android
@@ -31,5 +33,11 @@ This GitHub Pages page avoids opening the APK in GitHub's code viewer. It provid
 ## Direct repository download
 
 [SUNDERSTAR v0.1.2 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.2-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.2-android.apk)
+
+Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
+
+## Direct repository download
+
+[SUNDERSTAR v0.1.3 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.3-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.3-android.apk)
 
 Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
