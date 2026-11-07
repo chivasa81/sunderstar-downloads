@@ -1,7 +1,7 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.1.4.**
+**Latest: SUNDERSTAR v0.1.5.**
 
-[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.4-android/SUNDERSTAR-v0.1.4-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.4-android/SUNDERSTAR-v0.1.4-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.1.4-android)
+[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.5-android/SUNDERSTAR-v0.1.5-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.5-android/SUNDERSTAR-v0.1.5-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.1.5-android)
 
 Seven larger alien worlds, 14 optional local missions with saved upgrades, eight distinct flight encounters, and original layered combat sounds. Extract the ZIP in My Files if your browser stalls on the APK.
 <!-- latest-build:end -->
@@ -45,5 +45,11 @@ Open the download link in your Android browser. This is the same verified signed
 ## Direct repository download
 
 [SUNDERSTAR v0.1.4 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.4-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.4-android.apk)
+
+Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
+
+## Direct repository download
+
+[SUNDERSTAR v0.1.5 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.5-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.5-android.apk)
 
 Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
