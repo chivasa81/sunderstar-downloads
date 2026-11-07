@@ -1,7 +1,9 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.1.8.** [Phone download page](https://chivasa81.github.io/sunderstar-downloads/)
+**Latest: SUNDERSTAR v0.2.0.**
 
-This update refines the Voltalon ship, its lighting and phone framing, and adds the first original Gemini soundtrack drafts.
+[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.0-android/SUNDERSTAR-v0.2.0-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.0-android/SUNDERSTAR-v0.2.0-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.2.0-android)
+
+New combat, guardians and mission variety; a replayable comic intro; the original animated studio ident; readable briefings and nine recorded music cues. Extract the ZIP in My Files if your browser stalls on the APK.
 <!-- latest-build:end -->
 
 # SUNDERSTAR for Android
@@ -67,5 +69,11 @@ Open the download link in your Android browser. This is the same verified signed
 ## Direct repository download
 
 [SUNDERSTAR v0.1.8 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.8-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.8-android.apk)
+
+Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
+
+## Direct repository download
+
+[SUNDERSTAR v0.2.0 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.2.0-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.2.0-android.apk)
 
 Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
