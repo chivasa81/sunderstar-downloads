@@ -21,3 +21,9 @@ Open the download link in your Android browser. This is the same verified signed
 [Download and install on Android](https://chivasa81.github.io/sunderstar-downloads/)
 
 This GitHub Pages page avoids opening the APK in GitHub's code viewer. It provides a ZIP containing the unchanged signed APK, plus a direct APK download. Extract the ZIP in My Files, then open the APK to install.
+
+## Direct repository download
+
+[SUNDERSTAR v0.1.2 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.2-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.2-android.apk)
+
+Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
