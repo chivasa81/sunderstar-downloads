@@ -1,7 +1,5 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.2.0.**
-
-[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.0-android/SUNDERSTAR-v0.2.0-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.0-android/SUNDERSTAR-v0.2.0-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.2.0-android)
+**Latest: SUNDERSTAR v0.2.0.** [Direct install ZIP](https://chivasa81.github.io/sunderstar-downloads/downloads/SUNDERSTAR-v0.2.0-install.zip) · [Direct APK](https://chivasa81.github.io/sunderstar-downloads/downloads/SUNDERSTAR-v0.2.0-android.apk)
 
 New combat, guardians and mission variety; a replayable comic intro; the original animated studio ident; readable briefings and nine recorded music cues. Extract the ZIP in My Files if your browser stalls on the APK.
 <!-- latest-build:end -->
