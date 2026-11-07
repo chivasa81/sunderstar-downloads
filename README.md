@@ -1,9 +1,7 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.1.8.**
+**Latest: SUNDERSTAR v0.1.8.** [Phone download page](https://chivasa81.github.io/sunderstar-downloads/)
 
-[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.8-android/SUNDERSTAR-v0.1.8-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.8-android/SUNDERSTAR-v0.1.8-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.1.8-android)
-
-Refined Voltalon wings, cockpit, armor, engine lighting and phone framing, plus the first original Gemini music drafts. Extract the ZIP in My Files if your browser stalls on the APK.
+This update refines the Voltalon ship, its lighting and phone framing, and adds the first original Gemini soundtrack drafts.
 <!-- latest-build:end -->
 
 # SUNDERSTAR for Android
