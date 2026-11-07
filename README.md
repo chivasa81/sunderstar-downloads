@@ -1,9 +1,7 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.1.7.**
+**Latest: SUNDERSTAR v0.1.7.** [Phone download page](https://chivasa81.github.io/sunderstar-downloads/)
 
-[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.7-android/SUNDERSTAR-v0.1.7-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.7-android/SUNDERSTAR-v0.1.7-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.1.7-android)
-
-New textured planetary machinery, stronger ground effects and sound, and a paused tactical map with pan, pinch/zoom and objective status. Extract the ZIP in My Files if your browser stalls on the APK.
+This update adds textured planetary machinery, stronger ground effects and sound, and a paused tactical map with pan, pinch/zoom and objective status.
 <!-- latest-build:end -->
 
 # SUNDERSTAR for Android
@@ -12,7 +10,7 @@ An Iron Daydream Works playable campaign prototype.
 
 This repository distributes signed APKs and checksums only. Game source and signing keys are not stored here.
 
-Android 8.0+ with a current system WebView. Offline landscape play, multi-touch controls, 16 alternating ground/space mission configurations, and the original Dawn Circuit score.
+Android 8.0+ with a current system WebView. Offline landscape play, multi-touch controls, 16 alternating ground/space mission configurations, and the temporary Bring Back the Dawn soundtrack.
 
 Download the APK from Releases, open it on your Android phone, and install. If prompted, allow that browser or file manager to install this app.
 
