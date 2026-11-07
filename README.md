@@ -1,9 +1,9 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.1.5.**
+**Latest: SUNDERSTAR v0.1.6.**
 
-[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.5-android/SUNDERSTAR-v0.1.5-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.5-android/SUNDERSTAR-v0.1.5-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.1.5-android)
+[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.6-android/SUNDERSTAR-v0.1.6-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.1.6-android/SUNDERSTAR-v0.1.6-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.1.6-android)
 
-Seven larger alien worlds, 14 optional local missions with saved upgrades, eight distinct flight encounters, and original layered combat sounds. Extract the ZIP in My Files if your browser stalls on the APK.
+New cinematic menus for all 16 missions, 21 guarded alien objectives, stronger guardian attacks, and more varied orbital formations and scenery. Extract the ZIP in My Files if your browser stalls on the APK.
 <!-- latest-build:end -->
 
 # SUNDERSTAR for Android
@@ -51,5 +51,11 @@ Open the download link in your Android browser. This is the same verified signed
 ## Direct repository download
 
 [SUNDERSTAR v0.1.5 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.5-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.5-android.apk)
+
+Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
+
+## Direct repository download
+
+[SUNDERSTAR v0.1.6 APK](https://github.com/chivasa81/sunderstar-downloads/raw/refs/heads/main/downloads/SUNDERSTAR-v0.1.6-android.apk) · [GitHub file page](https://github.com/chivasa81/sunderstar-downloads/blob/main/downloads/SUNDERSTAR-v0.1.6-android.apk)
 
 Open the download link in your Android browser. This is the same verified signed APK as the release, served directly from the repository.
