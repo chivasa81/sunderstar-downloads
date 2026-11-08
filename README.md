@@ -1,7 +1,11 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.2.0.** [Direct install ZIP](https://chivasa81.github.io/sunderstar-downloads/downloads/SUNDERSTAR-v0.2.0-install.zip) · [Direct APK](https://chivasa81.github.io/sunderstar-downloads/downloads/SUNDERSTAR-v0.2.0-android.apk)
+**Latest: SUNDERSTAR v0.2.2.**
 
-New combat, guardians and mission variety; a replayable comic intro; the original animated studio ident; readable briefings and nine recorded music cues. Extract the ZIP in My Files if your browser stalls on the APK.
+[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.2-android/SUNDERSTAR-v0.2.2-android.apk) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.2.2-android)
+
+48 verified recorded music cues, distinct space encounters, authored planet traversal and biological enemies.
+
+Download the APK, open the completed file in your Android file manager, and choose Install. If prompted, allow that browser or file manager to install this app. Install over the existing SUNDERSTAR app to retain campaign saves.
 <!-- latest-build:end -->
 
 # SUNDERSTAR for Android
