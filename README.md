@@ -1,7 +1,7 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.2.4.**
+**Latest: SUNDERSTAR v0.2.5.**
 
-[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.4-android/SUNDERSTAR-v0.2.4-android.apk) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.2.4-android)
+[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.5-android/SUNDERSTAR-v0.2.5-android.apk) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.2.5-android)
 
 48 verified recorded music cues, distinct space encounters, authored planet traversal and biological enemies.
 
