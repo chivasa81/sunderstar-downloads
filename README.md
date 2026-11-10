@@ -1,11 +1,11 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.2.7.**
+**Latest: SUNDERSTAR v0.2.8.**
 
-[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.7-android/SUNDERSTAR-v0.2.7-android.apk) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.2.7-android)
+[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.8-android/SUNDERSTAR-v0.2.8-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.2.8-android/SUNDERSTAR-v0.2.8-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.2.8-android)
 
-48 verified recorded music cues, distinct space encounters, authored planet traversal and biological enemies.
+Daily UTC challenges and sixteen mission leaderboards with fixed equipment, separate difficulty/aim-assistance categories and explicit server replay verification. Online participation is optional; campaign saves and offline practice stay independent.
 
-Download the APK, open the completed file in your Android file manager, and choose Install. If prompted, allow that browser or file manager to install this app. Install over the existing SUNDERSTAR app to retain campaign saves.
+Download the APK, open the completed file in your Android file manager, and choose Install. Or extract the install ZIP in My Files and open the identical signed APK inside. If prompted, allow that browser or file manager to install this app. Install over the existing SUNDERSTAR app to retain campaign saves.
 <!-- latest-build:end -->
 
 # SUNDERSTAR for Android
