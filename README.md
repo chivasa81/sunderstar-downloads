@@ -1,9 +1,9 @@
 <!-- latest-build:start -->
-**Latest: SUNDERSTAR v0.3.0.**
+**Latest: SUNDERSTAR v0.3.1.**
 
-[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.3.0-android/SUNDERSTAR-v0.3.0-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.3.0-android/SUNDERSTAR-v0.3.0-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.3.0-android)
+[Download APK](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.3.1-android/SUNDERSTAR-v0.3.1-android.apk) · [Download install ZIP](https://github.com/chivasa81/sunderstar-downloads/releases/download/v0.3.1-android/SUNDERSTAR-v0.3.1-install.zip) · [Release page](https://github.com/chivasa81/sunderstar-downloads/releases/tag/v0.3.1-android)
 
-A cockpit Flight Recorder saves completed online runs on this device for explicit later submission, with deadline guidance and verified receipts. Daily UTC challenges and sixteen mission leaderboards retain fixed equipment, separate difficulty/aim-assistance categories and explicit server replay verification. Online participation is optional; campaign saves and offline practice stay independent.
+Campaign flights now pursue the Night Sovereign through Varkesh Dominion territory: faster flight, close obstacles, combat and a visible stolen Dawn Core, followed by the return to Earth with the surviving fleet behind you. Flight Recorder still saves completed online runs for explicit later submission. Daily UTC challenges and sixteen mission leaderboards retain fixed equipment, separate difficulty/aim-assistance categories and explicit server replay verification. Online participation is optional; campaign saves and offline practice stay independent.
 
 Download the APK, open the completed file in your Android file manager, and choose Install. Or extract the install ZIP in My Files and open the identical signed APK inside. If prompted, allow that browser or file manager to install this app. Install over the existing SUNDERSTAR app to retain campaign saves.
 <!-- latest-build:end -->
